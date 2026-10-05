@@ -1,4 +1,4 @@
-Hi! I'm Gain
+👋 Hi! I'm Gain na kubb
 
 <!--
 **preechawut/preechawut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
